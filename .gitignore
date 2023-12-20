@@ -1,5 +1,9 @@
 *.zip
+# resnet 50 is so heavy that github blocked the request
 resnet50*
 .hidden
 .DS_Store
 variables*
+
+imagenet-vgg-verydeep-19.mat
+vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5
