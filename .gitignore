@@ -1,0 +1,5 @@
+*.zip
+resnet50*
+.hidden
+.DS_Store
+variables*
